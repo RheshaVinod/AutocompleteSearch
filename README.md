@@ -13,4 +13,5 @@ Key features:
 
 
 
-<img width="673" height="560" alt="image" src="https://github.com/user-attachments/assets/d644a311-67a4-410d-83ae-116719393fed" />
+<img width="673" height="560" alt="image" src="https://github.com/user-attachments/assets/5b64b172-2d06-4bed-9210-090da9b867a5" />
+
